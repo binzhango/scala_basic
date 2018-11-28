@@ -14,3 +14,4 @@
 - Contra-variance
 - Upper type bounds
 - Lower type bounds
+[Scala trait vs Java interface](http://public.beuth-hochschule.de/~solymosi/veroeff/objektdiagramme/Superiority.html)
